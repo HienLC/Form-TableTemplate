@@ -8,6 +8,7 @@ main{
 
 body{
     margin: 0;
+    font-family: 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 .right-container{
@@ -15,11 +16,7 @@ body{
 }
 
 form{
-    margin: 150px 300px;
-}
-
-form P{
-    
+    margin: 150px 200px;
 }
 
 .text-input input{
